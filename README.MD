@@ -2,7 +2,8 @@
 <img 
     src="./images/O_Senhor_dos_Aneis_de_Bloco-podcasters-talking2.png"
     width="300"
-/>
+/><h1 align=center><font size=-1>Podcast</font><br>"O Senhor dos Anéis de Bloco"<br>
+<font size=-1>Um podcast sobre Blockchain</font></h1>
 </p>
 
 <p align="center">
@@ -15,12 +16,14 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    Preview do podcast
 </p>
 
 <div align="center">
-    <audio src="./audios/O_Senhor_dos_Aneis_de_Bloco-ep01.MP3" controls title="Podcast editado"></audio>
+    <audio src="./audios/O_Senhor_dos_Aneis_de_Bloco-ep01.MP3" controls title="Podcast editado"></audio><br><a href="https://github.com/grossitech/podcast-generated-by-ia-project/raw/refs/heads/main/audios/O_Senhor_dos_Aneis_de_Bloco-ElevenLabs_podcast.mp3?download=">Download mp3</a>
 </div>
+
+&nbsp;<br>&nbsp;<br>
 
 # Projeto Podcast Gerado por I.A.s
 
@@ -139,7 +142,7 @@ Resposta:
     width="200"  
 />
 
-ROTEIRO:
+GERANDO O ROTEIRO:
 
 Prompt para Gemini:
 
@@ -201,7 +204,7 @@ E essa foi a nossa rápida passagem pela Terra-média digital de hoje. Lembre-se
 Eu sou Luciano e esse foi o Senhor dos Aneis de Bloco dessa semana.
 ```
 
-AUDIO:
+GERANDO O AUDIO:
 
 Texto para ElevenLabs (separei entre duas pessoas):
 
@@ -238,13 +241,13 @@ Até mais!
 Resposta (áudio cru do ElevenLabs):
 
 <div align="center">
-    <audio src="./audios/O_Senhor_dos_Aneis_de_Bloco-ElevenLabs_podcast.mp3" controls title="Podcast editado"></audio>
+    <audio src="./audios/O_Senhor_dos_Aneis_de_Bloco-ElevenLabs_podcast.mp3" controls title="Podcast editado"></audio><br><a href="https://github.com/grossitech/podcast-generated-by-ia-project/raw/refs/heads/main/audios/O_Senhor_dos_Aneis_de_Bloco-ep01.MP3?download=">Download mp3</a>
 </div>
 
 Após edição no CapCut (podcast pronto para publicar):
 
 <div align="center">
-    <audio src="./audios/O_Senhor_dos_Aneis_de_Bloco-ep01.MP3" controls title="Podcast editado"></audio>
+    <audio src="./audios/O_Senhor_dos_Aneis_de_Bloco-ep01.MP3" controls title="Podcast editado"></audio><br><a href="https://github.com/grossitech/podcast-generated-by-ia-project/raw/refs/heads/main/audios/O_Senhor_dos_Aneis_de_Bloco-ElevenLabs_podcast.mp3?download=">Download mp3</a>
 </div>
 
 
