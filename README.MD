@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="images/O_Senhor_dos_Anéis_de_Bloco-podcasters-talking2.png"
+    src="./images/O_Senhor_dos_Anéis_de_Bloco-podcasters-talking2.png"
     width="300"
 />
 </p>
